@@ -1,0 +1,4 @@
+service,url,priority
+risk-model,https://risk.company.com,gold
+risk-aggregation,https://api.company.com,silver
+report,https://bi.company.com,gold

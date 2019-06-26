@@ -1,0 +1,4 @@
+service:
+  name: {{service}}-service
+  url: {{url}}
+  priority: {{priority}}
